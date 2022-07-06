@@ -1,0 +1,21 @@
+.index {
+    background-image: url('https://www.rswsc.co.uk/wp-content/uploads/2018/12/fireworks.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.form {
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+#diwali {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 1000;
+}
